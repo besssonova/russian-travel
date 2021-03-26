@@ -1,0 +1,12 @@
+.header__lang-link {
+    color: #fff;
+    font-weight: normal;
+    text-decoration: none;
+    outline: 1px solid red;
+    margin-right: 18px;
+    line-height: 1.1;
+}
+
+.header__lang-link:last-of-type {
+    margin-right: 0;
+}

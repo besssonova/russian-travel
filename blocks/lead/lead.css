@@ -1,0 +1,11 @@
+.lead {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    outline: 1px solid red;
+
+}
