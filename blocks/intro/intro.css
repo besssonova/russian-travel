@@ -2,3 +2,10 @@
     width: 90%;
     margin: auto;
 }
+
+@media (min-width: 700px) {
+    .intro {
+        margin: 0 max(24px);
+        min-width: 720px;
+    }
+}

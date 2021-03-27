@@ -5,6 +5,13 @@
     font-size: 40px;
     line-height: 1.1;
     text-align: center;
+    min-width: 288px;
+}
 
-    max-width: 288px;
+@media (min-width: 700px) {
+    .lead__title {
+        font-size: 96px;
+        line-height: 1.04;
+        margin-bottom: 32px;
+    }
 }

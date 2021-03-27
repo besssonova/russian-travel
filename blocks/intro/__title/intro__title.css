@@ -3,5 +3,14 @@
   margin: 64px 0 40px;
   max-width: 288px;
   font-size: 32px;
+  font-weight: 900;
   line-height: 1.09;
+}
+
+@media (min-width: 700px) {
+  .intro__title {
+    font-size: 54px;
+    line-height: 1.07;
+    max-width: 720px;
+  }
 }
