@@ -1,0 +1,28 @@
+.cover__link {
+    display: block;
+    text-decoration: none;
+    background-image: url(../../../images/nasobakah_cover_1.jpg);
+    background-size: 100% 100%;
+    color: inherit;
+    position: relative;
+    z-index: 1;
+    
+}
+
+.cover__link::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #2A2C2F;
+    opacity: 0.3;
+    transition: opacity 0.3s ease-in;
+    z-index: -1;
+}
+
+.cover__link:hover::after {
+    opacity: 0.8;
+    
+}

@@ -1,5 +1,5 @@
 .photo-grid {
-    outline: 1px solid red;
+   
     display: grid;
     max-width: 90%;
     grid-template-columns: repeat(auto, 288px);
