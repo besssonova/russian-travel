@@ -2,3 +2,10 @@
     margin: 0 auto;
     min-width: 288px;
 }
+
+@media (min-width: 700px) {
+    .place__website {
+        align-self: end;
+        margin: 0;
+    }
+}

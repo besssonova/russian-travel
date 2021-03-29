@@ -5,3 +5,10 @@
     font-size: 12px;
     color: #aaa;
 }
+
+@media (min-width: 700px) {
+    .place__url-heading {
+        
+        
+    }
+}

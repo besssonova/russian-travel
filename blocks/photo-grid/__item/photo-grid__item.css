@@ -4,3 +4,10 @@
     border-style: none;
     
 }
+
+@media (min-width: 700px) {
+    .photo-grid__item {
+        min-width: 352px;
+        
+    }
+}

@@ -7,3 +7,9 @@
   max-width: 288px;
   white-space: pre-line;
 }
+
+@media (min-width: 700px) {
+  .intro__list{ 
+   margin-bottom: 88px;
+  }
+}

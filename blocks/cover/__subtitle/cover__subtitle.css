@@ -7,3 +7,11 @@
     line-height: 1.14;
     font-weight: normal;
 }
+
+@media (min-width: 700px) {
+    .cover__subtitle {
+      font-size: 18px;
+      line-height: 1.22;
+      padding: 0 204px 115px;
+    }
+}

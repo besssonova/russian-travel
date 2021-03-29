@@ -7,3 +7,12 @@
     line-height: 1.09;
     font-weight: 900;
 }
+
+@media (min-width: 700px) {
+    .cover__title {
+        font-size: 72px;
+        line-height: 1.06;
+        padding: 115px 104px 32px;
+        
+    }
+}

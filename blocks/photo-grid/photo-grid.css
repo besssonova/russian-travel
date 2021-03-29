@@ -7,3 +7,13 @@
     margin: 0 auto 64px;
     gap: 12px;
 }
+
+@media (min-width: 700px) {
+    .photo-grid {
+        grid-template-columns: repeat(2, 352px);
+        gap: 16px;
+        margin-bottom:  88px;
+        
+
+    }
+}
