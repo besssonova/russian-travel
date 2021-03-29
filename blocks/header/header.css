@@ -23,3 +23,9 @@
     margin-right: 48px;
   }
 }
+
+@media (min-width: 1200px) {
+  .header {
+    margin-bottom: 56px;
+  }
+}

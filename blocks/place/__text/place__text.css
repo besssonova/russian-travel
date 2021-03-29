@@ -20,3 +20,11 @@
   }
 
 }
+
+@media (min-width: 1200px) {
+  .place__text {
+      max-width: 484px;
+      
+  }
+
+}

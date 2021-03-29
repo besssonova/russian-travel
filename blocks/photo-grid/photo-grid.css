@@ -13,7 +13,7 @@
         grid-template-columns: repeat(2, 352px);
         gap: 16px;
         margin-bottom:  88px;
-        
+        max-width: 100%;
 
     }
 }
@@ -22,8 +22,18 @@
     .photo-grid {
         grid-template-columns: repeat(3, 300px);
         gap: 14px;
-        margin: 0 48px 92px;
+        margin: 0;
+        padding: 0 48px 92px;
         
+    }
+}
 
+@media (min-width: 1200px) {
+    .photo-grid {
+        grid-template-columns: repeat(4, 284px);
+        gap: 16px;
+        
+       
+        
     }
 }

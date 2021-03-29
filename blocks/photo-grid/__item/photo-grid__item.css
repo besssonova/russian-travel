@@ -18,3 +18,11 @@
         
     }
 }
+
+@media (min-width: 1200px) {
+    .photo-grid__item {
+        min-width: 284px;
+        max-width: 284px;
+        
+    }
+}

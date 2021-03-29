@@ -24,3 +24,9 @@
         margin-bottom: 56px;
     }
 }
+
+@media (min-width: 1200px) {
+    .lead__subtitle {
+        margin-bottom: 64px;
+    }
+}

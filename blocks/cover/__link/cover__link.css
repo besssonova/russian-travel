@@ -26,3 +26,11 @@
     opacity: 0.8;
     
 }
+
+@media (min-width: 1200px) {
+    .cover__link {
+        max-width: 1184px;
+        margin: auto;
+        
+    }
+}
