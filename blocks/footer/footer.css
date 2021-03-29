@@ -11,3 +11,11 @@
         justify-content: space-between;
     }
 }
+
+@media (min-width: 900px) {
+    .footer {
+        
+        margin: 0 48px;
+        
+    }
+}

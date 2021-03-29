@@ -17,3 +17,9 @@
   }
 
 }
+
+@media (min-width: 900px) {
+    .header__lang-link {
+        line-height: 1.17;
+    }
+}

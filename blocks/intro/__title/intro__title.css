@@ -14,3 +14,9 @@
     max-width: 720px;
   }
 }
+
+@media (min-width: 700px) {
+  .intro__title {
+    margin-top: 92px;
+  }
+}

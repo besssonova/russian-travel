@@ -17,3 +17,13 @@
 
     }
 }
+
+@media (min-width: 900px) {
+    .photo-grid {
+        grid-template-columns: repeat(3, 300px);
+        gap: 14px;
+        margin: 0 48px 92px;
+        
+
+    }
+}

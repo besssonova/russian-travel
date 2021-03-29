@@ -2,3 +2,9 @@
   width: 100vw;
     
 }
+
+@media (min-width: 900px) {
+  .lead__image {
+    max-width: 928px;
+  }
+}

@@ -1,6 +1,5 @@
 .intro__list {
   margin: 0 0 64px;
-  /* padding-bottom: 64px; */
   font-size: 12px;
   font-style: normal;
   line-height: 150%;
@@ -11,5 +10,11 @@
 @media (min-width: 700px) {
   .intro__list{ 
    margin-bottom: 88px;
+  }
+}
+
+@media (min-width: 900px) {
+  .intro__list{ 
+   margin-bottom: 92px;
   }
 }

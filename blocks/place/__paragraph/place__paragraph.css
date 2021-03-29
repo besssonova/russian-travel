@@ -10,3 +10,12 @@
 .place__paragraph:last-of-type {
     margin-bottom: 0;
 }
+
+@media (min-width: 900px) {
+    .place__paragraph {
+        font-size: 18px;
+        margin-bottom: 27px;
+    }
+
+}
+

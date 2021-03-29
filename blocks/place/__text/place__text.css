@@ -7,6 +7,15 @@
 @media (min-width: 700px) {
   .place__text {
       max-width: 352px;
+      margin: 0;
+      
+  }
+
+}
+
+@media (min-width: 900px) {
+  .place__text {
+      max-width: 456px;
       
   }
 

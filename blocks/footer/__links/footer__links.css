@@ -9,7 +9,7 @@
 @media (min-width: 700px) {
     .footer__links {
         flex-direction: row;
-        margin-right: 69px;
+       
        
     }
 }
