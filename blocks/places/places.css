@@ -1,5 +1,6 @@
 .places {
     width: 100%;
+    display: flex;
     margin: 0 auto;
 
    
@@ -8,6 +9,7 @@
 @media (min-width: 425px) {
   .places {
       width: 94%;
+      flex-direction: column;
   }
 
 }
