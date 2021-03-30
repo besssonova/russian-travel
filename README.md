@@ -17,4 +17,4 @@
 
 ------
 **Автор:** Бессонова Юлия, 2021 
-:floppy_disk:
+:floppy_disk: :floppy_disk: :floppy_disk:
