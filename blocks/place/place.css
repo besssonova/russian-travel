@@ -10,6 +10,13 @@
 
 @media (min-width: 700px) {
     .place {
+        grid-template-columns: 320px 300px;
+        gap: 48px 32px;
+    }
+}
+
+@media (min-width: 750px) {
+    .place {
         grid-template-columns: 340px 352px;
         gap: 48px 32px;
         margin: 0 auto 73px;
@@ -23,14 +30,21 @@
 
 @media (min-width: 900px) {
     .place {
-        grid-template-columns: 440px 456px;
-        gap: 48px 28px;
+        grid-template-columns: 400px 420px;
+        gap: 48px 20px;
         
     }
     .place:last-of-type {
         margin-bottom: 92px;
     }
 }
+
+@media (min-width: 1000px) {
+    .place {
+        grid-template-columns: 440px 456px;
+        gap: 48px 28px;
+        
+    }
 
 @media (min-width: 1200px) {
     .place {

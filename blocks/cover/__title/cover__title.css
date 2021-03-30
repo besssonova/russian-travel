@@ -8,6 +8,12 @@
     font-weight: 900;
 }
 
+@media (min-width: 400px) {
+    .cover__title {
+        padding: 82px 50px 22px;
+    }
+}
+
 @media (min-width: 700px) {
     .cover__title {
         font-size: 72px;

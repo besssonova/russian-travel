@@ -3,6 +3,7 @@
     margin: auto;
 }
 
+
 @media (min-width: 700px) {
     .intro {
         margin: 0 24px;

@@ -8,6 +8,13 @@
     font-weight: normal;
 }
 
+@media (min-width: 400px) {
+  .cover__subtitle {
+    white-space: normal;
+    padding: 0 100px 70px;
+  }
+}
+
 @media (min-width: 700px) {
     .cover__subtitle {
       font-size: 18px;

@@ -11,14 +11,21 @@
         font-size: 42px;
         line-height: 1.1;
         margin: 0;
-        white-space: pre-line;
+        max-width: 340px;
+        
     }
 }
 
-@media (min-width: 700px) {
+@media (min-width: 900px) {
     .place__title {
         font-size: 72px;
         line-height: 1.06;
-        white-space: pre-line;
+        max-width: 440px;
+    }
+}
+
+@media (min-width: 900px) {
+    .place__title {
+        max-width: 460px;
     }
 }
