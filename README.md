@@ -13,7 +13,7 @@
 
 **GitHub Pages**
 
-* [Ссылка на проект в GitHub Pages]()  <!-- вставить ссылку -->
+* [Ссылка на проект в GitHub Pages](https://besssonova.github.io/russian-travel/index.html)  <!-- вставить ссылку -->
 
 ------
 **Автор:** Бессонова Юлия, 2021 
