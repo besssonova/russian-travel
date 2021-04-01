@@ -3,14 +3,8 @@
     
 }
 
-@media (min-width: 900px) {
+@media (min-width: 800px) {
   .lead__image {
-    max-width: 928px;
-  }
-}
-
-@media (min-width: 1200px) {
-  .lead__image {
-    max-width: 984px;
+    max-width: 100%;
   }
 }

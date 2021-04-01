@@ -1,26 +1,37 @@
 .intro {
-    width: 90%;
+    max-width: 90%;
     margin: auto;
-  
+
 }
 
 
-@media (min-width: 720px) {
+@media (min-width: 768px) {
     .intro {
-        margin: 0 24px;
-        min-width: calc(100% - 48px);
+        max-width: 720px;
+
     }
 }
 
 @media (min-width: 900px) {
     .intro {
         max-width: 690px;
-        margin: 0 0 0 48px;
+        margin-left: 48px;
+
     }
 }
 
+@media (min-width: 1025px) {
+    .intro {
+        
+        margin-left: 10%;
+
+    }
+}
+
+
 @media (min-width: 1200px) {
     .intro {
-        margin: 0 0 0 148px;
+        margin-left: 148px;
+
     }
 }
