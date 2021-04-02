@@ -1,5 +1,6 @@
 .cover {
     margin-bottom: 64px;
+    height: calc(100vw / 1.6);
 }
 
 @media (min-width: 700px) {
