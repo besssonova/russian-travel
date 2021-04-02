@@ -2,20 +2,22 @@
   margin: 0 0 64px;
   font-size: 12px;
   font-style: normal;
-  line-height: 150%;
-  white-space: pre-line;
+  line-height: 1.5;
+  list-style-type: none;
+  padding: 0;
+
 }
 
 @media (min-width: 700px) {
   .intro__list{ 
-   margin-bottom: 88px;
-   max-width: 720px;
+    margin-bottom: 88px;
+
   }
 }
 
 @media (min-width: 900px) {
   .intro__list{ 
-   margin-bottom: 92px;
-   max-width: 690px;
+    margin-bottom: 92px;
+
   }
 }

@@ -27,6 +27,14 @@
     
 }
 
+
+@media (min-width: 340px) {
+    .cover__link {
+        background-size: cover;
+        background-position: center; 
+    }
+}
+
 @media (min-width: 1200px) {
     .cover__link {
         max-width: 1184px;
