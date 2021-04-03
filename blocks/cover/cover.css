@@ -1,6 +1,6 @@
 .cover {
     margin-bottom: 64px;
-    height: calc(100vw / 1.6);
+    min-height: calc(100vw / 1.6);
 }
 
 @media (min-width: 700px) {
@@ -13,4 +13,10 @@
     .cover {
       margin-bottom: 92px;
 }
+}
+
+@media (min-width: 1200px) {
+    .cover {
+      min-height: 740px;
+    }
 }
